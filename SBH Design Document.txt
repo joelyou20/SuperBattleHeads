@@ -1,0 +1,76 @@
+﻿Process Roadmap:
+
+
+Basic Features
+
+
+* Complete First Map
+* Complete First Character
+   * Basic animations
+      * Crouch
+      * Drop
+      * Run
+      * Jump
+      * Idle
+      * Spawn
+* Create Camera Control
+   * Follows player
+* Design Main Menu Artwork
+* Design Main Menu Animations
+* Build Main Menu functionality
+   * Play
+   * Customize
+   * Profile
+   * Options
+   * Quit
+* Create Main Menu Music
+* Create Map Select Menu
+* Add first map to map select
+* Create Character select screen
+* Add first character to character select
+* Create spawning functionality in map
+* Create first ability for first character
+* Create damage feature
+* Create death and respawn functionality
+* Create Character health indicator and tracking
+* Create death counter
+* Create sounds
+* Create second character
+* Add second character to character select
+* Update Camera Control to follow centre point of all characters on screen
+* Create basic A.I.
+* Create first ability for second character
+* Create win condition for battle
+* Create win screen
+* Create win report and view results
+* Create save/load functionality
+* Create controller support
+* Create Multiplayer support
+
+
+Intermediate Features
+
+
+* Create Options menu
+   * Sound
+   * Display
+   * Controls
+* Create 3rd and 4th characters
+* Create abilities and animations for all characters
+* Create 2nd and 3rd maps
+* Add all new additions to respective menus
+* Add new game mode (Brawl)
+* Add game settings feature
+* Add tweaking capability to match
+   * One hit kill
+   * All same character
+   * Etc…
+* Add practice game mode
+* Update A.I.
+* Add Credits
+* Create Deck menu
+* Add a few card art
+* Add card drop rewards at the end of battles
+* Add challenge mode
+* Add card functionality
+* Add achievements
