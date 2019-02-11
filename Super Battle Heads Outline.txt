@@ -1,0 +1,148 @@
+﻿Character ideas:
+
+
+Jet: Jet is a long range sniper with a focus on positioning to line up skill shots. Jet can make use of her ability to fly and her powerful range attack to land headshots easily while her melee attack is low damage it can be used to gain distance.
+* Movement:
+   * Jetpack: press space bar in the air to fly
+* Melee: 
+   * Burn-Out: Jet turns around and blasts nearby enemies with concentrated fire from her jetpack. This attack both knocks back enemies, burns them, and launches Jet in the opposite direction.
+* Range:        
+   * Snipe: Jet takes a second and charges a shot from her sniper rifle to deal high damage and if charged fully, can pierce several enemies at once.
+* Special:
+   * Ghost-Mode: Jet enters a state where she can pass through terrain and also fire through obstacles. Jet is immune to slowing effects, but can still be stunned. Jet’s charge time for shots is removed and jetpack fuel is unlimited for the duration.
+
+
+Hothead: Hothead is a fast and fiery bruiser that can get around the map quickly and leave trails of damaging fire where he travels. His melee attacks can help him close distance while his ranged attacks can be used to keep consistent damage
+* Movement:
+   * Crackle: Hothead disappears in a puff of smoke and reappears a set distance away in a small explosion of fire that can burn enemies.
+* Melee:
+   * Fire Trail: Hothead dashes forward and punches the first enemy he collides with, knocking them back a small distance and briefly stunning them. Hothead leaves a trail of fire behind him that lingers and burns enemies.
+* Range:
+   * Blazeball: Hothead lobs a bouncing fireball that will bounce once and then explode dealing a small amount of fire damage and burns enemies. If Hothead collides with a Blazeball with Fire Trail, the Blazeball will become a projectile and travel in a straight line that gains speed and damage as well as increased explosion radius. 
+   * Ideas:
+      * If Blazeball is thrown at a fire trail it will bounce repeatedly for a few seconds instead of the single bounce
+      * If you Crackle into a Blazeball in flight, Hothead will catch the ball and throw it straight down into the ground causing a shockwave that will knock back enemies
+      * These above additions to Hothead allow for interesting combos 
+* Special:
+   * Flamethrower: Hothead unleashes a steady torrent of fire in front of himself that burns enemies and deals massive damage. Hotheads movement speed is greatly reduced, but he is immune to CC for the duration
+
+
+Dino-Mike
+
+
+Priscilla: Priscilla is a quick and nimble battle head with the unique ability to steal life from enemies with her attacks. Her maneuverable movement ability allows her to be able to position well and get out of range of enemies as well as initiate combat.
+* Movement:
+   * Turn to Bat: Priscilla becomes a small bat for a couple seconds. In this state, she can fly, has a reduced hitbox, and has greatly increased movement speed. However, her abilities are disabled and she takes increased damage.
+* Melee:
+   * Vampiric Bite: Priscilla plunges her teeth into the enemy in front of her and sucks a small amount of life from them.
+* Ranged:
+   * Siphon: Priscilla sends out tendrils of life leeching power to all enemies in front of her. These tendrils will slowly leech life from its victim and cause them to be slowed.
+* Special:
+   * 
+
+The Bro
+
+
+Medusa: Medusa is a queen of control. Her abilities allow her to lock down enemies and dish out large amounts over damage. 
+* Movement:
+   * Slither: By holding down the space bar, Medusa charges up a quick dash that, when colliding with an enemy, attaches herself to that enemy by coiling around them, slowing and constraining them. Medusa slowly damages the enemy for a moment and then releases with a burst of poison damage. This attack can be used in the air. Melee attacks can be used while coiled.
+   * Ideas:
+      * If you Slither into a stoned enemy, it will cause the enemy to shatter.
+* Melee:
+   * Serpent Venom: Medusa shoots venom out of her mouth in front of her. If the venom hits an enemy it causes poison damage, if it hits the ground, it will create a damaging zone of poison.
+* Ranged:
+   * Stony Gaze: Medusa fires a beam that turns enemies that are looking at her to stone. The longer she charges the attack, the more damage it deals and the longer the enemy is turned to stone. Enemies in a stone state will take less damage, and will not be able to move.
+* Special:
+   * Statue of Terror: Medusa becomes a statue for a brief period. Around the statue, she emanates a radius of damage that slows enemies hit. If any enemies remain in the area for too long, they are turned to stone. Enemies that are already stone will shatter, dealing massive damage to themselves and enemies around them.
+
+
+Humpty
+Pop
+
+
+Rhino: Rhino is a tank that can cause massive damage. This beast of a battle head is slow and lumbering but can close distance quickly with his various skills.
+* Movement:
+   * Ground-Pound: If spacebar is pressed while in the air, Rhino will slam himself into the ground and stun any nearby enemies. If Rhino ground-pounds onto an enemy in the air, the enemy will plummet with Rhino and deal massive damage when colliding with the ground.
+* Melee:
+   * Gore: Rhino rams his head into the closest enemy and tosses them into the air. This attack causes bleeding.
+* Ranged:
+   * Horn Grapple: Rhino launches his horn out in a straight line and pulls the first enemy he hits to himself and stuns them for a brief moment. If the horn collides with a wall, Rhino pulls himself to the wall.
+* Special:
+   * Charge: Rhino enrages himself and charges forward. If Rhino collides with an enemy he pushes them with him until he reaches the end of his charge or collides with a wall. If colliding with a wall, Rhino deals massive damage and stuns the enemy. Rhino can store up to 2 charges for Charge.
+Lizzie Mcfire
+
+
+Miasma:
+* Movement:
+   * Cloud Walk: Miasma becomes a cloud of disorienting gas. In this brief state, Miasma’s movement speed increases and she can pass through enemies. Miasma poisons all enemies that she passes through and slows them for a brief time.
+* Melee:
+   * * Ranged:
+* Special:
+
+
+Shatter:
+* Movement:
+* Melee:
+* Ranged: 
+   * Earth Shift: Shatter slams the ground and causes a sharp spire to erupt from the ground at a target location. The Spire deals damage to enemies it hits and stuns them for a very brief moment. The spire itself remains for a few seconds and is impassable terrain.
+* Special:
+
+
+
+
+Card Ideas:
+
+
+Players may build a deck of seven cards for each of their battle heads. These cards will improve stats, augment abilities, and occasionally change appearance.
+
+
+Ideas?: 
+* Stacking Common cards?
+* Fusing Cards?
+* FUSING CHARACTERS???
+Rarity Scale:
+* Grey: Common
+* Green: Uncommon
+* Blue: Rare
+* Purple: Epic
+* Gold: Prime
+* Black: Cursed
+        
+Common Cards:
+* Whallop: +0.10% damage with Melee attacks
+* Unload: +0.10% damage with Ranged attacks
+* Tough Kick: +0.10% damage with Movement attacks
+* Unleashed Potential: +0.05% damage with Special attacks
+
+
+Uncommon Cards: 
+* Pick Up the Pace: +10% Walk Speed
+* Bounce: +25% Jump Height
+* Trigger Happy: +5% Fire rate
+* Channeling: +10% Faster special charging
+
+
+Rare cards:
+* Cool off: -10% Cooldowns
+* Heavy Hitter: +5% Base Damage
+* Overshield: +100 Base shield
+* Vampiric Trait: +5% Life Steal
+
+
+Epic cards:
+* Head Start: At the start of each life, gain a shield equal to 20% of your max life.
+* Jack of all Trades: +5% Base Damage, +10% Movement Speed, -5% Cooldowns
+* Bulk Up: +10% Max Health +250 Shield
+* Bullseye: Critical hits do an extra 50% damage
+
+
+Gold cards:
+* 
+
+
+
+Maps:
+* Floating Islands
+* Factory
+* Volcano
+*
